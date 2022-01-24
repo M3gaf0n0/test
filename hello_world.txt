@@ -1,1 +1,9 @@
 This is gettin' old
+
+git clone <SSH direction>
+git push origin <branch>
+git add <file to stage>
+git add . //to add all modified files
+git commit -m <message describing what have you done, to different this snapshot>
+git status
+git log
